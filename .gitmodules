@@ -1,3 +1,3 @@
 [submodule "ios"]
 	path = ios
-	url = https://github.com/yinghuiwang/GitSubmoduleTest_ios.git
+url=https://github.com/YHBlock/GitSubmoduleTest_ios.git
